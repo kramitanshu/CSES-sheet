@@ -9,12 +9,9 @@ int main(){
 	cin >> n;
 
 	ll cnt5 = 0;
-	for(ll i = 1; i<=n; i++){
-		ll num = i;
-		while(num%5 == 0){
-			num /= 5;
-			cnt5++;
-		}
+	while(n >= 5){
+		n /= 5;
+		cnt5 += n;
 	}
 
 	cout << cnt5 << endl;
