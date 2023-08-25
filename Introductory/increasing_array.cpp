@@ -1,6 +1,8 @@
 #include<bits/stdc++.h>
 using namespace std;
 
+// Whenever there is an pattern generation problem
+// Always try to understand examples if possible and try to mimic the same
 #define ll long long
 
 int main(){
