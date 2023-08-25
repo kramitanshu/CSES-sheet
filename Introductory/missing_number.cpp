@@ -1,6 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
-
+// Power of XOR operation
 int main(){
 
 	int n;
