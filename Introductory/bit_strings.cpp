@@ -1,6 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 
+// Try modular exponentiation 
 
 int main(){
 	int n;
